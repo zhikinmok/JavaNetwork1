@@ -8,6 +8,8 @@ import java.util.concurrent.Semaphore;
 
 /**
  * Created by Adriano on 22/11/16.
+ *
+ * Mod in header
  */
 public class Client {
     static Semaphore send_sem = new Semaphore(1);
